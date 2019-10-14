@@ -27,8 +27,8 @@ Admin panel For Laravel backend api's and Vuejs components as frontend . This re
     Here are the things implemented in this project:
 
     ⦁   Use of Vue Router with Laravel
-    ⦁	AdminLTE 3
-    ⦁	Font Awesome 5 on Laravel
+    ⦁   AdminLTE 3
+    ⦁   Font Awesome 5 on Laravel
     ⦁	Use of SweetAlert for alert notification 
     ⦁	Use of API in Laravel
     ⦁	Api Auth with Laravel Passport
